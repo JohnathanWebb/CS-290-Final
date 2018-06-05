@@ -1,1 +1,2 @@
-# CS-290-Final
+# Web Developement (CS 290) Final Project
+
