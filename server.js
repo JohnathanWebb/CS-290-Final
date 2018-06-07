@@ -19,6 +19,10 @@ app.use("*", function(req, res){
 	res.status(200).render("home");
 });
 
+app.get('/api/', function(req,res){
+	
+}
+
 app.listen(port, function(){
 	console.log(" == Successfully started listening");
 });
